@@ -1,4 +1,4 @@
-export default function Links(github, linkedIn){
+export default function Links({github, linkedIn}){
 
     return (
       <>
